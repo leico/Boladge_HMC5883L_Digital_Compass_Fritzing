@@ -548,6 +548,7 @@
       />
     </g>
     <circle
+      id="connector0pin"
       fill="none"
       stroke="#9A916C"
       stroke-width="1.0816"
@@ -557,6 +558,7 @@
       r="1.956"
     />
     <circle
+      id="connector1pin"
       fill="none"
       stroke="#9A916C"
       stroke-width="1.0833"
@@ -566,6 +568,7 @@
       r="1.956"
     />
     <circle
+      id="connector2pin"
       fill="none"
       stroke="#9A916C"
       stroke-width="1.0833"
@@ -575,6 +578,7 @@
       r="1.956"
     />
     <circle
+      id="connector3pin"
       fill="none"
       stroke="#9A916C"
       stroke-width="1.0833"
@@ -584,6 +588,7 @@
       r="1.956"
     />
     <circle
+      id="connector4pin"
       fill="none"
       stroke="#9A916C"
       stroke-width="1.0833"

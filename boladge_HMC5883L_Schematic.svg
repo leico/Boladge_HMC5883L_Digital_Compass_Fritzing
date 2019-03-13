@@ -1,180 +1,31 @@
-<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<?xml version="1.0" encoding="utf-8"?>
 <!-- Generator: Adobe Illustrator 23.0.2, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-  <svg
-  xmlns="http://www.w3.org/2000/svg"
-  xmlns:xlink="http://www.w3.org/1999/xlink"
-  version="1.2"
-  baseProfile="tiny"
-  id="レイヤー_1"
-  x="0px"
-  y="0px"
-  width="11.46mm"
-  height="14mm"
-  viewBox="0 0 32.485 39.685"
-  xml:space="preserve">
-  <g
-    id="schematic">
-    <line
-      fill="none"
-      stroke="#555555"
-      stroke-width="0.7002"
-      stroke-linecap="round"
-      stroke-miterlimit="10"
-      x1="19.843"
-      y1="7.203"
-      x2="19.843"
-      y2="0.355"
-    />
-    <line
-      fill="none"
-      stroke="#555555"
-      stroke-width="0.7"
-      stroke-linecap="round"
-      stroke-miterlimit="10"
-      x1="19.843"
-      y1="39.331"
-      x2="19.843"
-      y2="32.413"
-    />
-    <line
-      fill="none"
-      stroke="#555555"
-      stroke-width="0.7"
-      stroke-linecap="round"
-      stroke-miterlimit="10"
-      x1="7.202"
-      y1="12.763"
-      x2="0.35"
-      y2="12.763"
-    />
-    <line
-      fill="none"
-      stroke="#555555"
-      stroke-width="0.7"
-      stroke-linecap="round"
-      stroke-miterlimit="10"
-      x1="7.202"
-      y1="19.918"
-      x2="0.35"
-      y2="19.918"
-    />
-    <line
-      fill="none"
-      stroke="#555555"
-      stroke-width="0.7"
-      stroke-linecap="round"
-      stroke-miterlimit="10"
-      x1="7.202"
-      y1="26.933"
-      x2="0.35"
-      y2="26.933"
-    />
-    <g>
-      <rect
-        x="7.202"
-        y="7.203"
-        fill="#FFFFFF"
-        stroke="#231815"
-        stroke-width="0.9076"
-        stroke-miterlimit="10"
-        width="25.283"
-        height="25.21"
-      />
-      <text
-        transform="matrix(0.9966 0 0 1 8.2217 13.7948)"
-        fill="#555555"
-        font-family="'DroidSans'"
-        font-size="3.5">SCL</text>
-      <text
-        transform="matrix(0.9966 0 0 1 8.2217 20.9042)"
-        fill="#555555"
-        font-family="'DroidSans'"
-        font-size="3.5">S</text>
-      <text
-        transform="matrix(0.9966 0 0 1 10.0322 20.9042)"
-        fill="#555555"
-        font-family="'DroidSans'"
-        font-size="3.5">D</text>
-      <text
-        transform="matrix(0.9966 0 0 1 12.3843 20.9042)"
-        fill="#555555"
-        font-family="'DroidSans'"
-        font-size="3.5">A</text>
-      <text
-        transform="matrix(0.9966 0 0 1 8.2217 28.0126)"
-        fill="#555555"
-        font-family="'DroidSans'"
-        font-size="3.5">D</text>
-      <text
-        transform="matrix(0.9966 0 0 1 10.6079 28.0126)"
-        fill="#555555"
-        font-family="'DroidSans'"
-        font-size="3.5">R</text>
-      <text
-        transform="matrix(0.9966 0 0 1 12.665 28.0126)"
-        fill="#555555"
-        font-family="'DroidSans'"
-        font-size="3.5">D</text>
-      <text
-        transform="matrix(0.9966 0 0 1 14.9814 28.0126)"
-        fill="#555555"
-        font-family="'DroidSans'"
-        font-size="3.5">Y</text>
-      <text
-        transform="matrix(0.9966 0 0 1 19.8418 11.5194)"
-        fill="#555555"
-        font-family="'DroidSans'"
-        font-size="3.5">V</text>
-      <text
-        transform="matrix(0.9966 0 0 1 21.7188 11.5194)"
-        fill="#555555"
-        font-family="'DroidSans'"
-        font-size="3.5">c</text>
-      <text
-        transform="matrix(0.9966 0 0 1 23.3335 11.5194)"
-        fill="#555555"
-        font-family="'DroidSans'"
-        font-size="3.5">c</text>
-      <text
-        transform="matrix(0.9966 0 0 1 19.8394 30.5732)"
-        fill="#555555"
-        font-family="'DroidSans'"
-        font-size="3.5">Gnd</text>
-    </g>
-    <rect
-      x="19.483"
-      y="-0.005"
-      fill="none"
-      width="0.72"
-      height="0.72"
-    />
-    <rect
-      x="-0.01"
-      y="12.403"
-      fill="none"
-      width="0.72"
-      height="0.72"
-    />
-    <rect
-      x="-0.01"
-      y="19.558"
-      fill="none"
-      width="0.72"
-      height="0.72"
-    />
-    <rect
-      x="-0.01"
-      y="26.573"
-      fill="none"
-      width="0.72"
-      height="0.72"
-    />
-    <rect
-      x="19.48"
-      y="38.971"
-      fill="none"
-      width="0.72"
-      height="0.72"
-    />
-  </g>
+<svg version="1.2" baseProfile="tiny" id="Layer1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+	 x="0px" y="0px" width="11.46mm" height="14mm" viewBox="0 0 32.485 39.685" xml:space="preserve">
+<g id="schematic">
+	
+		<line fill="none" stroke="#555555" stroke-width="0.7002" stroke-linecap="round" stroke-miterlimit="10" x1="19.791" y1="7.198" x2="19.791" y2="0.402"/>
+	
+		<line fill="none" stroke="#555555" stroke-width="0.7" stroke-linecap="round" stroke-miterlimit="10" x1="19.791" y1="39.284" x2="19.791" y2="32.387"/>
+	
+		<line fill="none" stroke="#555555" stroke-width="0.7" stroke-linecap="round" stroke-miterlimit="10" x1="7.197" y1="12.796" x2="0.3" y2="12.796"/>
+	
+		<line fill="none" stroke="#555555" stroke-width="0.7" stroke-linecap="round" stroke-miterlimit="10" x1="7.197" y1="19.893" x2="0.3" y2="19.893"/>
+	
+		<line fill="none" stroke="#555555" stroke-width="0.7" stroke-linecap="round" stroke-miterlimit="10" x1="7.197" y1="26.889" x2="0.3" y2="26.889"/>
+	<g>
+		
+			<rect x="7.197" y="7.198" fill="#FFFFFF" stroke="#231815" stroke-width="0.9076" stroke-miterlimit="10" width="25.288" height="25.188"/>
+		<text transform="matrix(0.9966 0 0 1 8.2109 13.7953)" fill="#555555" font-family="'DroidSans'" font-size="3.5">SCL</text>
+		<text transform="matrix(0.9966 0 0 1 8.2109 20.8954)" fill="#555555" font-family="'DroidSans'" font-size="3.5">SDA</text>
+		<text transform="matrix(0.9966 0 0 1 8.2109 27.9941)" fill="#555555" font-family="'DroidSans'" font-size="3.5">DRDY</text>
+		<text transform="matrix(0.9966 0 0 1 19.8154 11.5229)" fill="#555555" font-family="'DroidSans'" font-size="3.5">Vcc</text>
+		<text transform="matrix(0.9966 0 0 1 19.813 30.5517)" fill="#555555" font-family="'DroidSans'" font-size="3.5">Gnd</text>
+	</g>
+	<rect id="connector4pin" y="26.589" fill="none" width="0.7" height="0.7"/>
+	<rect id="connector3pin" y="19.593" fill="none" width="0.7" height="0.7"/>
+	<rect id="connector2pin" y="12.396" fill="none" width="0.7" height="0.7"/>
+	<rect id="connector1pin" x="19.491" y="38.984" fill="none" width="0.7" height="0.7"/>
+	<rect id="connector0pin" x="19.491" y="0.002" fill="none" width="0.7" height="0.7"/>
+</g>
 </svg>

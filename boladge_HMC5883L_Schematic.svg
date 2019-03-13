@@ -5,112 +5,70 @@
   xmlns:xlink="http://www.w3.org/1999/xlink"
   version="1.2"
   baseProfile="tiny"
-  id="Layer1"
+  id="レイヤー_1"
   x="0px"
   y="0px"
-  width="14mm"
+  width="11.46mm"
   height="14mm"
-  viewBox="0 0 39.685 39.685"
+  viewBox="0 0 32.485 39.685"
   xml:space="preserve">
   <g
     id="schematic">
-    <g>
-      <line
-        fill="none"
-        stroke="#555555"
-        stroke-width="0.7002"
-        stroke-linecap="round"
-        stroke-miterlimit="10"
-        x1="19.843"
-        y1="7.203"
-        x2="19.843"
-        y2="0.003"
-      />
-      <ellipse
-        fill="#555555"
-        cx="19.84"
-        cy="0.003"
-        rx="0.35"
-        ry="0.35"
-      />
-    </g>
-    <g>
-      <line
-        fill="none"
-        stroke="#555555"
-        stroke-width="0.7"
-        stroke-linecap="round"
-        stroke-miterlimit="10"
-        x1="19.843"
-        y1="39.696"
-        x2="19.843"
-        y2="32.413"
-      />
-      <ellipse
-        fill="#555555"
-        cx="19.842"
-        cy="39.696"
-        rx="0.35"
-        ry="0.346"
-      />
-    </g>
-    <g>
-      <line
-        fill="none"
-        stroke="#555555"
-        stroke-width="0.7"
-        stroke-linecap="round"
-        stroke-miterlimit="10"
-        x1="7.202"
-        y1="12.763"
-        x2="0.002"
-        y2="12.763"
-      />
-      <circle
-        fill="#555555"
-        cx="0.002"
-        cy="12.763"
-        r="0.35"
-      />
-    </g>
-    <g>
-      <line
-        fill="none"
-        stroke="#555555"
-        stroke-width="0.7"
-        stroke-linecap="round"
-        stroke-miterlimit="10"
-        x1="7.202"
-        y1="19.918"
-        x2="0.002"
-        y2="19.918"
-      />
-      <circle
-        fill="#555555"
-        cx="0.002"
-        cy="19.918"
-        r="0.35"
-      />
-    </g>
-    <g>
-      <line
-        fill="none"
-        stroke="#555555"
-        stroke-width="0.7"
-        stroke-linecap="round"
-        stroke-miterlimit="10"
-        x1="7.202"
-        y1="26.933"
-        x2="0.002"
-        y2="26.933"
-      />
-      <circle
-        fill="#555555"
-        cx="0.002"
-        cy="26.933"
-        r="0.35"
-      />
-    </g>
+    <line
+      fill="none"
+      stroke="#555555"
+      stroke-width="0.7002"
+      stroke-linecap="round"
+      stroke-miterlimit="10"
+      x1="19.843"
+      y1="7.203"
+      x2="19.843"
+      y2="0.355"
+    />
+    <line
+      fill="none"
+      stroke="#555555"
+      stroke-width="0.7"
+      stroke-linecap="round"
+      stroke-miterlimit="10"
+      x1="19.843"
+      y1="39.331"
+      x2="19.843"
+      y2="32.413"
+    />
+    <line
+      fill="none"
+      stroke="#555555"
+      stroke-width="0.7"
+      stroke-linecap="round"
+      stroke-miterlimit="10"
+      x1="7.202"
+      y1="12.763"
+      x2="0.35"
+      y2="12.763"
+    />
+    <line
+      fill="none"
+      stroke="#555555"
+      stroke-width="0.7"
+      stroke-linecap="round"
+      stroke-miterlimit="10"
+      x1="7.202"
+      y1="19.918"
+      x2="0.35"
+      y2="19.918"
+    />
+    <line
+      fill="none"
+      stroke="#555555"
+      stroke-width="0.7"
+      stroke-linecap="round"
+      stroke-miterlimit="10"
+      x1="7.202"
+      y1="26.933"
+      x2="0.35"
+      y2="26.933"
+    />
     <g>
       <rect
         x="7.202"
@@ -126,62 +84,97 @@
         transform="matrix(0.9966 0 0 1 8.2217 13.7948)"
         fill="#555555"
         font-family="'DroidSans'"
-        font-size="3.5pt">SCL</text>
+        font-size="3.5">SCL</text>
       <text
         transform="matrix(0.9966 0 0 1 8.2217 20.9042)"
         fill="#555555"
         font-family="'DroidSans'"
-        font-size="3.5pt">S</text>
+        font-size="3.5">S</text>
       <text
-        transform="matrix(0.9966 0 0 1 10.0317 20.9042)"
+        transform="matrix(0.9966 0 0 1 10.0322 20.9042)"
         fill="#555555"
         font-family="'DroidSans'"
-        font-size="3.5pt">D</text>
+        font-size="3.5">D</text>
       <text
         transform="matrix(0.9966 0 0 1 12.3843 20.9042)"
         fill="#555555"
         font-family="'DroidSans'"
-        font-size="3.5pt">A</text>
+        font-size="3.5">A</text>
       <text
         transform="matrix(0.9966 0 0 1 8.2217 28.0126)"
         fill="#555555"
         font-family="'DroidSans'"
-        font-size="3.5pt">D</text>
+        font-size="3.5">D</text>
       <text
         transform="matrix(0.9966 0 0 1 10.6079 28.0126)"
         fill="#555555"
         font-family="'DroidSans'"
-        font-size="3.5pt">R</text>
+        font-size="3.5">R</text>
       <text
-        transform="matrix(0.9966 0 0 1 12.6646 28.0126)"
+        transform="matrix(0.9966 0 0 1 12.665 28.0126)"
         fill="#555555"
         font-family="'DroidSans'"
-        font-size="3.5pt">D</text>
+        font-size="3.5">D</text>
       <text
-        transform="matrix(0.9966 0 0 1 14.981 28.0126)"
+        transform="matrix(0.9966 0 0 1 14.9814 28.0126)"
         fill="#555555"
         font-family="'DroidSans'"
-        font-size="3.5pt">Y</text>
+        font-size="3.5">Y</text>
       <text
         transform="matrix(0.9966 0 0 1 19.8418 11.5194)"
         fill="#555555"
         font-family="'DroidSans'"
-        font-size="3.5pt">V</text>
+        font-size="3.5">V</text>
       <text
         transform="matrix(0.9966 0 0 1 21.7188 11.5194)"
         fill="#555555"
         font-family="'DroidSans'"
-        font-size="3.5pt">c</text>
+        font-size="3.5">c</text>
       <text
         transform="matrix(0.9966 0 0 1 23.3335 11.5194)"
         fill="#555555"
         font-family="'DroidSans'"
-        font-size="3.5pt">c</text>
+        font-size="3.5">c</text>
       <text
         transform="matrix(0.9966 0 0 1 19.8394 30.5732)"
         fill="#555555"
         font-family="'DroidSans'"
-        font-size="3.5pt">Gnd</text>
+        font-size="3.5">Gnd</text>
     </g>
+    <rect
+      x="19.483"
+      y="-0.005"
+      fill="none"
+      width="0.72"
+      height="0.72"
+    />
+    <rect
+      x="-0.01"
+      y="12.403"
+      fill="none"
+      width="0.72"
+      height="0.72"
+    />
+    <rect
+      x="-0.01"
+      y="19.558"
+      fill="none"
+      width="0.72"
+      height="0.72"
+    />
+    <rect
+      x="-0.01"
+      y="26.573"
+      fill="none"
+      width="0.72"
+      height="0.72"
+    />
+    <rect
+      x="19.48"
+      y="38.971"
+      fill="none"
+      width="0.72"
+      height="0.72"
+    />
   </g>
 </svg>
